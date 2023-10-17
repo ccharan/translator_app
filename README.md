@@ -3,7 +3,7 @@ This python tool will translate languages
 
 Translator UI
 
-![image](https://github.com/ccharan/translator/assets/72061061/6e8cb335-45be-43dd-a0c2-32e3040d50e3)
+<img width="924" alt="UI" src="https://github.com/ccharan/translator/assets/72061061/dacbbb73-b1c0-45e0-98dd-6bb93cb0b7b6">
 
 
 
