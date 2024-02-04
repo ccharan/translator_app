@@ -16,11 +16,11 @@ The Translator Tool is a simple graphical user interface (GUI) application that 
 - **Click Translate:** Press the translate button to initiate the translation process.
 - **View Translation:** The translated text will be displayed on the screen.
 
-<img width="300" alt="Translator UI" src="https://github.com/ccharan/translator/assets/72061061/fbcfae94-8c72-4d4a-b075-f74a4ce795cc">
+<img width="400" alt="Translator UI" src="https://github.com/ccharan/translator/assets/72061061/fbcfae94-8c72-4d4a-b075-f74a4ce795cc">
 
-<img width="300" alt="Choosing language" src="https://github.com/ccharan/translator/assets/72061061/62ffcdb8-9c60-4385-a4e5-044bfd6f82d0">
+<img width="400" alt="Choosing language" src="https://github.com/ccharan/translator/assets/72061061/62ffcdb8-9c60-4385-a4e5-044bfd6f82d0">
 
-<img width="300" alt="Translated output" src="https://github.com/ccharan/translator/assets/72061061/af254aeb-b0b0-4ad0-af46-d67b56a54b65">
+<img width="400" alt="Translated output" src="https://github.com/ccharan/translator/assets/72061061/af254aeb-b0b0-4ad0-af46-d67b56a54b65">
 
 ## Installation
 
